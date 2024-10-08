@@ -19,7 +19,7 @@
 }
 
 body {
-    background-image: url(assets/img/bg-img.jpg);
+    background-image: url(assets/img/bg-img-45focus.png);
     background-size: cover;
 }
 
@@ -68,6 +68,10 @@ h1, h2 {
 
 ul {
     padding: 0.5rem;
+}
+
+ul, li {   
+    list-style-type: none;
 }
 
 footer {
